@@ -1,15 +1,28 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Android / Gradle
+.gradle/
+build/
+app/build/
 local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Arquivos de ambiente e segredos locais
+.env
+.env.*
+!.env.example
+
+# Chaves privadas e arquivos de assinatura
+*.jks
+*.keystore
+
+# Credenciais de contas de serviço
+service-account*.json
+*-service-account*.json
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
+Thumbs.db

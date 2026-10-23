@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560128824573",
+    "project_id": "olmpuz-5d352",
+    "storage_bucket": "olmpuz-5d352.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560128824573:android:3090f17af31db9914d1a94",
+        "android_client_info": {
+          "package_name": "com.olympuz.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp683fQ-aFuHi1Km3HG13SFcotA5LuMgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
